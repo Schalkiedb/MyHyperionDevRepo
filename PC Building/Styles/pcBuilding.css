@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+}
+h2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%; 
+}
+h3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%; 
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%; 
+}
+ul{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%; 
+}
+.styled-block {
+    background-color: blue;
+    color: white;
+    padding: 20px; /* Adjust padding as needed */
+    border-radius: 5px; /* Optional: Add rounded corners */
+  }
+  .styled-block-Heading {
+    background-color: black;
+    color: white;
+    padding: 20px; /* Adjust padding as needed */
+    border-radius: 5px; /* Optional: Add rounded corners */
+  }
+  .somePadding{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%; 
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
